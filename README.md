@@ -16,7 +16,7 @@
 <a href="https://instagram.com/stackgurug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stackgurug" height="30" width="40" /></a>
 </p>
 <p align="left">
-<a href="https://abhinav-desk.000webhostapp.com/" target="blank"><img align="center"  height="30" width="40" />PORTFOLIO</a>
+<a href="https://abhinav-desk.000webhostapp.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/726/726056.png" alt="PORTFOLIO" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
