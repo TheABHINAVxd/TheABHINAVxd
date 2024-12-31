@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webofayush&label=Profile%20views&color=0e75b6&style=flat" alt="webofayush" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m A **Full Stack Web Development**
 
 - 💬 Ask me about **mern stack**
 
